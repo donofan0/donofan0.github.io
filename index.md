@@ -4,18 +4,31 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Polynanny](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Mount Usher Navigator](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[RiverNanny](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Tech Tank](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[3D Printer](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Deck Nanny](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 
 ### Category Name 2
 
