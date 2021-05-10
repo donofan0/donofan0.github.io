@@ -3,8 +3,6 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Student at Maynooth University 
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://linkedin.com/in/donovanWebb">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
