@@ -5,15 +5,15 @@
 ### BT Young Scientist
 
 [RiverNanny](/pdf/riverNanny.pdf)
-<a href="/pdf/riverNanny.pdf"><img src="images/riverNanny.jpg?raw=true"/></a>
+<a href="pdf/riverNanny.pdf"><img src="images/riverNanny.jpg?raw=true"/></a>
 
 ---
-[Mount Usher Navigator](/mountUsherNavigator)
-<a href="/mountUsherNavigator"><img src="images/mountUsherNavigator.jpg?raw=true"/></a>
+[Mount Usher Navigator](pdf/mountUsherNavigator.pdf)
+<a href="/pdf/mountUsherNavigator.pdf"><img src="images/mountUsherNavigator.jpg?raw=true"/></a>
 
 ---
-[PolyNanny](/polyNanny)
-<a href="/polyNanny"><img src="images/polyNanny.jpg?raw=true"/></a>
+[PolyNanny](/pdf/polyNanny.pdf)
+<a href="/pdf/polyNanny.pdf"><img src="images/polyNanny.jpg?raw=true"/></a>
 
 ---
 
