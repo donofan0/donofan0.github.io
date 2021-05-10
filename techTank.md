@@ -1,31 +1,11 @@
-## This can be your internal website page / project page
-
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Kenneth Webb and the Tech Tank
+<div class="entry-content">
+		<p><a href="https://kennethwebbfoundation.com/wp-content/uploads/2018/10/ADVERT__KENNETHWEBB_V6.jpg"><img class="alignnone size-large wp-image-132" src="https://kennethwebbfoundation.com/wp-content/uploads/2018/10/ADVERT__KENNETHWEBB_V6-788x1024.jpg" alt="" width="630" height="819" srcset="https://kennethwebbfoundation.com/wp-content/uploads/2018/10/ADVERT__KENNETHWEBB_V6-788x1024.jpg 788w, https://kennethwebbfoundation.com/wp-content/uploads/2018/10/ADVERT__KENNETHWEBB_V6-231x300.jpg 231w, https://kennethwebbfoundation.com/wp-content/uploads/2018/10/ADVERT__KENNETHWEBB_V6-768x998.jpg 768w, https://kennethwebbfoundation.com/wp-content/uploads/2018/10/ADVERT__KENNETHWEBB_V6-630x819.jpg 630w, https://kennethwebbfoundation.com/wp-content/uploads/2018/10/ADVERT__KENNETHWEBB_V6-930x1209.jpg 930w, https://kennethwebbfoundation.com/wp-content/uploads/2018/10/ADVERT__KENNETHWEBB_V6.jpg 1181w" sizes="(max-width: 630px) 100vw, 630px"></a></p>
+<p>The Exhibition was held in the <span style="color: red;"><b>RDS on the 13th to the 18th of December</b></span> in the Serpentine Hall 3.&nbsp; This is an exciting space of 40 x 30 m<span style="font-size: xx-small; vertical-align: top;">2</span>&nbsp;with room for 170 large paintings that were exhibited.&nbsp; Many of these painting had never been exhibited before and are available for purchase for a decerning eye. There was plenty of room for exploring the new Technologies that Kenneth and his Grandson Donovan, have “cooked up”.<br>
+<a href="https://kennethwebbfoundation.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-24-at-22.09.00.png"><img class="alignnone size-large wp-image-123" src="https://kennethwebbfoundation.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-24-at-22.09.00-1024x625.png" alt="" width="630" height="385" srcset="https://kennethwebbfoundation.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-24-at-22.09.00-1024x625.png 1024w, https://kennethwebbfoundation.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-24-at-22.09.00-300x183.png 300w, https://kennethwebbfoundation.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-24-at-22.09.00-768x469.png 768w, https://kennethwebbfoundation.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-24-at-22.09.00-630x385.png 630w, https://kennethwebbfoundation.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-24-at-22.09.00-930x568.png 930w, https://kennethwebbfoundation.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-24-at-22.09.00.png 1523w" sizes="(max-width: 630px) 100vw, 630px"></a></p>
+<p>The event was a total success on all accounts.&nbsp; Guests arrived with smiles and left with smiles.&nbsp; The atmosphere was exceptional with people thanking us for the experience to see this amazing collection of Kenneth’s works.&nbsp; The most often comment was how was it possible that at 92 Kenneth painted 12 new very large masterpieces with the energy of a 40-year-old.&nbsp; Donovan’s fast forward videos were a testament to this energy.&nbsp; Even Kenneth was amazed and commented to me “But they are fast forward”.&nbsp; &nbsp;I offered to show him them at normal speed which is equally amazing.</p>
+<p>The Tec-Tank was a great success as well and there is a video posted here which shows the full exhibition for those that missed it, which contains the Tec-Tank.&nbsp; Those who came reached in and grabbed a poppy to take home.</p>
+<p>There were many specialised events for invited guests hosted by ourselves and some of Kenneth’s most important Galleries as well as other entities who enjoyed being a part.&nbsp; Charities such as “Our Lives Matter”, “St. James Hospital Foundation”, “Cancer Care West” and others participated and raised much needed finance.<br>
+<a href="https://kennethwebbfoundation.com/wp-content/uploads/2018/05/Hall-3-Dinner-x-1440-550.jpg"><img class="alignnone size-large wp-image-80" src="https://kennethwebbfoundation.com/wp-content/uploads/2018/05/Hall-3-Dinner-x-1440-550-1024x391.jpg" alt="" width="630" height="241" srcset="https://kennethwebbfoundation.com/wp-content/uploads/2018/05/Hall-3-Dinner-x-1440-550-1024x391.jpg 1024w, https://kennethwebbfoundation.com/wp-content/uploads/2018/05/Hall-3-Dinner-x-1440-550-300x115.jpg 300w, https://kennethwebbfoundation.com/wp-content/uploads/2018/05/Hall-3-Dinner-x-1440-550-768x293.jpg 768w, https://kennethwebbfoundation.com/wp-content/uploads/2018/05/Hall-3-Dinner-x-1440-550-630x241.jpg 630w, https://kennethwebbfoundation.com/wp-content/uploads/2018/05/Hall-3-Dinner-x-1440-550-930x355.jpg 930w, https://kennethwebbfoundation.com/wp-content/uploads/2018/05/Hall-3-Dinner-x-1440-550.jpg 1440w" sizes="(max-width: 630px) 100vw, 630px"></a></p>
+<p>Some of the unsold painting&nbsp;perhaps are still available so please contact us if you see something you are interested in and we can see if it is something we are still willing to sell.&nbsp; &nbsp;Many of the&nbsp;paintings have been placed in the Kenneth Webb Foundation so that they will be available for the public in the future.</p>
+	</div>

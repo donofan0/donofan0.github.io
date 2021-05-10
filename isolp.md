@@ -1,31 +1,7 @@
-## This can be your internal website page / project page
+## Irish School of Lanscape Painting  
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The family business was teaching art classes, but we were unable to teach in person because of lockdown.  This means I set up an entire system for my Mother to teach online.  The first was the website [Link](https://irishcschooloflandscapepainting.com)https://irishcschooloflandscapepainting.com at this website. We run online painting classes every Tuesday morning.  This is Livestreamed from a filming studio I set up to Vimeo, rebroadcasted to our website.  These are also recorded and archived in a library of over 50 videos.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+To attract more customers, I also developed both an android and IOS app. You can find these apps by searching "ISOLP Painting Class" on the apple app store or play store.  This app features in-app purchase for a subscription to premium content and a video player, live stream player, push notifications, live chat and Chromecast support on android.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+There is also a macOS and TVs app in the works.
