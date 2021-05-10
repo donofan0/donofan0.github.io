@@ -5,7 +5,7 @@
 ### BT Young Scientist
 
 [RiverNanny](/pdf/riverNanny.pdf)
-<img src="images/RiverNanny.jpg?raw=true"/>
+<img src="images/riverNanny.jpg?raw=true"/>
 
 ---
 [Mount Usher Navigator](/mountUsherNavigator)
