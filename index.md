@@ -20,7 +20,7 @@
 ### Work
 
 [Convolutional Neural Netowrk Project](/pdf/CNN.pdf)
-<a href="/pdf/CNN.pdf"><img src="images/cnn.jpg?raw=true"/></a>
+<a href="/pdf/cnn.pdf"><img src="images/cnn.jpg?raw=true"/></a>
 
 ---
 [Irish School of Lanscape Painting](/isolp)
