@@ -24,7 +24,7 @@
 
 ---
 
-[Tech Tank](/techTank)
+[Tech Tank](/pdf/riverNanny.pdf#page=9)
 <img src="images/techTank.jpg?raw=true"/>
 
 ---
